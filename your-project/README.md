@@ -30,18 +30,6 @@ URL: https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-ine-nacionali
 The data refers to the readings of the living population of Barcelona on the first of January of 2019, approved by the INE (Instituto Nacinal de Estadística) and classified by nationality and genre.
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
-
-## Workflow
-1. ".gitignore" file creation
-2. Choosing the topic, in our case was "population"
-3. Formulate questions-hypotheses
-4. Research for a proper DataSet
-5. Organize the following tasks
-
-## Organization
-Using Trello board to reference and organize each task
-
 1. Analysis: 
 	1.1. Display the DataFrame structure
 	1.2. Display potential missing values (there was none)
@@ -66,6 +54,17 @@ Using Trello board to reference and organize each task
 	4.1. Question 1: What are the top3 spoken languages in Barcelona?
 	4.2. Question 2: Where is Chinatown in Barcelona?
 	4.3. Question 3: If you want to meet the love of your life, where should you go according to your sex preferences?
+
+## Workflow
+1. ".gitignore" file creation
+2. Choosing the topic, in our case was "population"
+3. Formulate questions-hypotheses
+4. Research for a proper DataSet
+5. Organize the following tasks
+
+## Organization
+Using Trello board to reference and organize each task
+
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
