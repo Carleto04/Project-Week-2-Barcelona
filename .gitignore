@@ -2,6 +2,23 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks,microsoftoffice,android,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,jupyternotebooks,microsoftoffice,android,windows
 
+unemployment.csv
+general-election-results-2019.csv
+births.csv
+deaths.csv
+immigrants-by-nationality.csv
+immigrants-emigrants-by-age.csv
+immigrants-emigrants-by-destination.csv
+immigrants-emigrants-by-sex.csv
+most-frequent-baby-names.csv
+most-frequent-names.csv
+population.csv
+air-quality-nov-2017.csv
+air-stations-nov-2017.csv
+accidents-2017.csv
+bus-stops.csv
+public-transport.csv
+
 ### Android ###
 # Built application files
 *.apk
@@ -102,6 +119,8 @@ output.json
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+Barcelona_Nationalities-Copy1-checkpoint.ipynb
+cleaning_df-checkpoint.ipynb
 
 # IPython
 profile_default/

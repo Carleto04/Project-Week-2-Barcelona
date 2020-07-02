@@ -42,11 +42,34 @@ What is the structure of your database? Have you created more than one table and
 ## Organization
 Using Trello board to reference and organize each task
 
-What does your repository look like? Explain your folder and file structure.
+1. Analysis: 
+	1.1. Display the DataFrame structure
+	1.2. Display potential missing values (there was none)
+	1.3. Display main statistics in DataFrame
+	1.4. Display histograms
+	1.5. Verify possible mistakes inside references (District Code - District Numero and Neighborhood Code - Neighborhood Numero)
+	1.6. Display main statistics in column 'Number' (the only one with int)
+	1.7. Crossed display Gender and Nationality with Number
+	1.8. Crossed display Gender and District Name with Number
+2. Categorical Variables:
+	2.1. Display data per district
+	2.2. Display data per Neighborhood
+	2.3. Display data per Gender
+	2.4. Display data per Nationality
+3. Dataset cleaning:
+	3.1. Create a security copy for the DataFrame
+	3.2. Drop unwanted columns: 'Year', 'Neighborhood_Code', 'District_Code'
+	3.3. Translate columns Cat/Eng
+	3.4. Drop unwanted data
+	3.5. Translate data in columns Cat/Eng
+4. Dataset Analysis:
+	4.1. Question 1: What are the top3 spoken languages in Barcelona?
+	4.2. Question 2: Where is Chinatown in Barcelona?
+	4.3. Question 3: If you want to meet the love of your life, where should you go according to your sex preferences?
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/ErwanDB/Project-Week-2-Barcelona)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/b/NRbRo5ZD/project-week-2-barcelona)  
