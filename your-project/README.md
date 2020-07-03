@@ -29,7 +29,22 @@ Our DataSet is called "Official population's nationality classified by genre of 
 URL: https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-ine-nacionalitat/resource/04d2b7f1-63b6-422e-bf2b-079d5046e09a
 The data refers to the readings of the living population of Barcelona on the first of January of 2019, approved by the INE (Instituto Nacinal de Estadística) and classified by nationality and genre.
 
-## Database
+## Repository structure
+Jupiter Notebook with python code of the game: Barcelona_Nationalities.ipynb
+The current README file: README.md
+The presentation of the project: Presentation_Barcelona-project.pdf
+A screenshot of my Trello board: trello_projectBCN_board.pdf
+The dataset file: 2019_ine_nacionalitat_per_sexe.csv
+
+## Workflow
+1. ".gitignore" file creation
+2. Choosing the topic, in our case was "population"
+3. Formulate questions-hypotheses
+4. Research for a proper DataSet
+5. Organize the following tasks
+
+## Organization
+Using Trello board to reference and organize each task. Trello screenshot is available in main repository.
 1. Analysis: 
 	1.1. Display the DataFrame structure
 	1.2. Display potential missing values (there was none)
@@ -55,20 +70,9 @@ The data refers to the readings of the living population of Barcelona on the fir
 	4.2. Question 2: Where is Chinatown in Barcelona?
 	4.3. Question 3: If you want to meet the love of your life, where should you go according to your sex preferences?
 
-## Workflow
-1. ".gitignore" file creation
-2. Choosing the topic, in our case was "population"
-3. Formulate questions-hypotheses
-4. Research for a proper DataSet
-5. Organize the following tasks
-
-## Organization
-Using Trello board to reference and organize each task
-
-
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/ErwanDB/Project-Week-2-Barcelona)  
-[Slides](https://slides.com/)  
+[Slides](https://1drv.ms/b/s!AlSM8HZzXfwPxXcEnJ8EPP2uLBlk)  
 [Trello](https://trello.com/b/NRbRo5ZD/project-week-2-barcelona)  
